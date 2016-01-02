@@ -1,0 +1,18 @@
+.ts-main-content {
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-right: 12px;
+}
+
+.ts-main-container{
+	margin-left: 250px;
+	position: relative;
+}
+
+.ts-main-rail{
+	
+}
+
+.ts-main-sticky{
+	width: 120px;
+}
